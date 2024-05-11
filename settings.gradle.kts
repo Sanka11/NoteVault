@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "NoteVault"
+rootProject.name = "Room Database"
 include(":app")
  
